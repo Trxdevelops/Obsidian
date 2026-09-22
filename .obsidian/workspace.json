@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Distribuidos/Tema 2/Llamadas a Procedimientos Remotos 1.md",
+                "file": "Sistemas Distribuidos/Tema 2/Llamadas a Procedimientos Remotos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Llamadas a Procedimientos Remotos 1"
+              "title": "Llamadas a Procedimientos Remotos"
             }
           }
         ]
@@ -208,10 +208,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1412990e44fbc0ce",
+  "active": "6b86c3e16e420dce",
   "lastOpenFiles": [
     "Sistemas Distribuidos/Tema 2/Llamadas a Procedimientos Remotos.md",
-    "Sistemas Distribuidos/Tema 2/Llamadas a Procedimientos Remotos 1.md",
+    "Sistemas Distribuidos/Tema 2/Llamadas a Procedimientos Remotos.md",
     "Sistemas Distribuidos/Tema 2/Programación en un sistema distribuido.md",
     "Sistemas Distribuidos/Tema 2/Memoria en un sistema distribuido.md",
     "Sistemas Distribuidos/Tema 2/Modelo Cliente Servidor.md",
