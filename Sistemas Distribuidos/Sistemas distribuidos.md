@@ -24,3 +24,8 @@ Según cómo se organizan y comunican los nodos, distinguimos varios modelos:
 - [[Cloud Computing]]
 
 [[Comparativa Modelos Distribuidos]]
+
+## Temas relacionados
+
+- [[Memoria en un sistema distribuido]]
+- [[Programación en un sistema distribuido]]
