@@ -6,37 +6,13 @@
       {
         "id": "81dba915515988c0",
         "type": "tabs",
-        "dimension": 46.20938628158845,
         "children": [
           {
             "id": "1412990e44fbc0ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Distribuidos/Tema 2/Llamadas a Procedimientos Remotos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Llamadas a Procedimientos Remotos"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d972864cbcbd0710",
-        "type": "tabs",
-        "dimension": 53.79061371841155,
-        "children": [
-          {
-            "id": "6b86c3e16e420dce",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
@@ -103,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.1000061035156
   },
   "right": {
     "id": "cfbbb757ec3aa9cb",
@@ -208,24 +184,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6b86c3e16e420dce",
+  "active": "1412990e44fbc0ce",
   "lastOpenFiles": [
-    "Sistemas Distribuidos/Tema 2/Llamadas a Procedimientos Remotos.md",
-    "Sistemas Distribuidos/Tema 2/Llamadas a Procedimientos Remotos.md",
-    "Sistemas Distribuidos/Tema 2/Programación en un sistema distribuido.md",
-    "Sistemas Distribuidos/Tema 2/Memoria en un sistema distribuido.md",
-    "Sistemas Distribuidos/Tema 2/Modelo Cliente Servidor.md",
-    "Tema 2/Organización Cliente-Servidor.md",
-    "Tema 2/Organización Maestro-Esclavo.md",
-    "Tema 2/Programacion en un sistema distribuio.md",
-    "Sistemas Distribuidos/Tema 2",
-    "Sistemas Distribuidos/Tema 1/Cloud Computing.md",
-    "Sistemas Distribuidos/Tema 1/Cluster Computing.md",
-    "Sistemas Distribuidos/Tema 1/Comparativa Modelos Distribuidos.md",
-    "Sistemas Distribuidos/Tema 1/Computación Centralizada.md",
-    "Sistemas Distribuidos/Tema 1/Cycle Scavenging.md",
-    "Sistemas Distribuidos/Tema 1/Grid Computing.md",
-    "Sistemas Distribuidos/Tema 1/Internet Computing.md",
-    "Sistemas Distribuidos/Sistemas distribuidos.md"
+    "Inteligencia Artificial/Regresion Polinomica.md",
+    "Inteligencia Artificial/Regresion Lineal Simple.md",
+    "Inteligencia Artificial/Curva de Aprendizaje.md",
+    "Inteligencia Artificial/Ecuacion Normal.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Herramientas/Regresion Lineal en Python.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Herramientas",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Curva de Aprendizaje.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Explicabilidad de los Coeficientes.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Heterocedasticidad.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Hipotesis de la Regresion Lineal.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Extensiones/Interpolacion y Extrapolacion.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Extensiones/Regresion Polinomica.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Extensiones",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Solvers/Ecuacion Normal.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Solvers/Minimos Cuadrados Ordinarios.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Solvers",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Datos y álgebra/Regresion Lineal Multiple.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Datos y álgebra/Ejemplo de la Fruteria.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Datos y álgebra/DataFrame y Matriz de Diseno.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Datos y álgebra",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Modelo de Regresion Lineal.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Parametros del Modelo Lineal.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Regresion Lineal Simple.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Ecuacion de la Recta.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos",
+    "Inteligencia Artificial/Regresion Lineal/Herramientas/Regresion Lineal en Python.md",
+    "Inteligencia Artificial/Regresion Lineal/Herramientas",
+    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación/Curva de Aprendizaje.md",
+    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación/Explicabilidad de los Coeficientes.md",
+    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación/Heterocedasticidad.md",
+    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación/Hipotesis de la Regresion Lineal.md",
+    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Regresion Lineal.md",
+    "Inteligencia Artificial/Regresion Lineal/Extensiones",
+    "Inteligencia Artificial/Regresion Lineal/Solvers"
   ]
 }
