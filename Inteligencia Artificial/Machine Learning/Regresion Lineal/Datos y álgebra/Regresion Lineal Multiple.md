@@ -14,7 +14,6 @@ Con dos features la recta se ha convertido en un **plano**.
 > [!info] En n dimensiones
 > Pasa a ser un **hiperplano afín** de $n$ dimensiones (afín porque no tiene por qué pasar por el origen).
 
-Ejemplo numérico con 30 tickets: ver [[Ejemplo de la Fruteria]].
 
 ## Con n features
 
@@ -39,4 +38,3 @@ Donde:
 > [!info] Notación matricial
 > Todo el modelo se reduce a $X\beta = y$.
 
-Relacionado: [[DataFrame y Matriz de Diseno]] · [[Ecuacion Normal]]

@@ -29,5 +29,3 @@ Donde:
 
 > [!info] Por qué es «lineal»
 > Trabajamos en dos dimensiones: $x$ es la variable independiente e $y$ la dependiente. La ecuación es lineal porque tanto $x$ como $y$ están elevadas a la potencia 1.
-
-Siguiente: [[Regresion Lineal Simple]] · [[Parametros del Modelo Lineal]]

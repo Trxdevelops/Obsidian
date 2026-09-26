@@ -13,4 +13,4 @@ Ocurre cuando la varianza de los residuos **no es constante**, sino que depende 
 > [!warning] Posible «solución»
 > Aplicar una transformación, por ejemplo el logaritmo o la raíz cuadrada de la variable dependiente ($y$). No es tan buena idea si hay más de una variable independiente.
 
-Relacionado: [[Hipotesis de la Regresion Lineal]]
+

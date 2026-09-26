@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "81dba915515988c0",
+        "id": "ca62283b6f9b309a",
         "type": "tabs",
         "children": [
           {
-            "id": "1412990e44fbc0ce",
+            "id": "9efdcebf3dc919bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.1000061035156
+    "width": 300
   },
   "right": {
     "id": "cfbbb757ec3aa9cb",
@@ -184,43 +184,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1412990e44fbc0ce",
+  "active": "9efdcebf3dc919bd",
   "lastOpenFiles": [
-    "Inteligencia Artificial/Regresion Polinomica.md",
-    "Inteligencia Artificial/Regresion Lineal Simple.md",
-    "Inteligencia Artificial/Curva de Aprendizaje.md",
-    "Inteligencia Artificial/Ecuacion Normal.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Herramientas/Regresion Lineal en Python.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Herramientas",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Curva de Aprendizaje.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Explicabilidad de los Coeficientes.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Heterocedasticidad.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Hipotesis de la Regresion Lineal.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Extensiones/Interpolacion y Extrapolacion.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Extensiones/Regresion Polinomica.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Extensiones",
+    "Sistemas Distribuidos/Tema 2/Modelo Cliente Servidor.md",
+    "Sistemas Distribuidos/Sistemas distribuidos.md",
+    "Sistemas Distribuidos/Tema 1/Comparativa Modelos Distribuidos.md",
+    "Sistemas Distribuidos/Tema 2/Llamadas a Procedimientos Remotos.md",
+    "Sistemas Distribuidos/Tema 2/Memoria en un sistema distribuido.md",
+    "Sistemas Distribuidos/Tema 2/Programación en un sistema distribuido.md",
+    "Sistemas Distribuidos/Tema 2/RPC.md",
+    "Sistemas Distribuidos/Tema 2/Stubs.md",
+    "Sistemas Distribuidos/Tema 1/Cycle Scavenging.md",
+    "Sistemas Distribuidos/Tema 2/Llamadas a procedimientos remos.md",
+    "Ejemplo de la Fruteria.md",
     "Inteligencia Artificial/Machine Learning/Regresion Lineal/Solvers/Ecuacion Normal.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Solvers/Minimos Cuadrados Ordinarios.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Solvers",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Explicabilidad de los Coeficientes.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Curva de Aprendizaje.md",
     "Inteligencia Artificial/Machine Learning/Regresion Lineal/Datos y álgebra/Regresion Lineal Multiple.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Datos y álgebra/Ejemplo de la Fruteria.md",
     "Inteligencia Artificial/Machine Learning/Regresion Lineal/Datos y álgebra/DataFrame y Matriz de Diseno.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Datos y álgebra",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Modelo de Regresion Lineal.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Parametros del Modelo Lineal.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Regresion Lineal Simple.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Ecuacion de la Recta.md",
-    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos",
-    "Inteligencia Artificial/Regresion Lineal/Herramientas/Regresion Lineal en Python.md",
-    "Inteligencia Artificial/Regresion Lineal/Herramientas",
-    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación/Curva de Aprendizaje.md",
-    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación/Explicabilidad de los Coeficientes.md",
-    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación/Heterocedasticidad.md",
-    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación/Hipotesis de la Regresion Lineal.md",
-    "Inteligencia Artificial/Regresion Lineal/Diagnóstico e interpretación",
     "Inteligencia Artificial/Machine Learning/Regresion Lineal/Regresion Lineal.md",
-    "Inteligencia Artificial/Regresion Lineal/Extensiones",
-    "Inteligencia Artificial/Regresion Lineal/Solvers"
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Solvers/Minimos Cuadrados Ordinarios.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Herramientas/Regresion Lineal en Python.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Regresion Lineal Simple.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Parametros del Modelo Lineal.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Modelo de Regresion Lineal.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos/Ecuacion de la Recta.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Extensiones/Regresion Polinomica.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Extensiones/Interpolacion y Extrapolacion.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación/Hipotesis de la Regresion Lineal.md",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Solvers",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Herramientas",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Fundamentos",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Extensiones",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Diagnóstico e interpretación",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal/Datos y álgebra",
+    "Inteligencia Artificial/Machine Learning/Regresion Lineal",
+    "Inteligencia Artificial/Machine Learning",
+    "Inteligencia Artificial",
+    "Sistemas Distribuidos/Tema 2"
   ]
 }

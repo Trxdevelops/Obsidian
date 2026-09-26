@@ -28,4 +28,3 @@ Donde:
 - $\Delta x$: variación en el eje horizontal
 - $\beta_0$: valor de la recta donde corta el eje $y$
 
-Relacionado: [[Ecuacion de la Recta]] · [[Parametros del Modelo Lineal]] · [[Regresion Lineal Multiple]]

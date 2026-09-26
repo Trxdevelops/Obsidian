@@ -41,5 +41,3 @@ Para el EDA podemos usar `seaborn.lmplot`, que muestra el intervalo de confianza
 ```python
 sns.lmplot(x=X, y=y, data=data, ci=95)
 ```
-
-Relacionado: [[Modelo de Regresion Lineal]] · [[Explicabilidad de los Coeficientes]]

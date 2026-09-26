@@ -23,4 +23,3 @@ Por cada «feature» $x$ hay un parámetro ajustable $\beta_1$, más un único t
 > [!info] Es un modelo paramétrico
 > Asumimos que la relación entre la variable dependiente y las independientes es lineal, y que el ruido procede de una distribución paramétrica (gaussiana).
 
-Relacionado: [[Hipotesis de la Regresion Lineal]] · [[Minimos Cuadrados Ordinarios]]

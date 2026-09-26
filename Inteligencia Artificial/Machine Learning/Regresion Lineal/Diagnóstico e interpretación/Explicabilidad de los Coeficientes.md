@@ -26,4 +26,3 @@ Se pueden calcular los intervalos de confianza (CI) de los coeficientes, por eje
 
 > [!warning] Un coeficiente sin intervalo de confianza es un número sin contexto: no sabes si es sólido o si es ruido.
 
-Relacionado: [[Parametros del Modelo Lineal]] · [[Regresion Lineal en Python]]

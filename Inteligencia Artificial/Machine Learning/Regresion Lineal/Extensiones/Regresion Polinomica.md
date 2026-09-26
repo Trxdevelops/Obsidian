@@ -35,4 +35,3 @@ Ojo: esto sigue siendo una **función lineal en términos de $\beta$**. En el ej
 > [!warning] Cuidado
 > Los polinomios de grado alto tienen colas inestables: ver [[Interpolacion y Extrapolacion]].
 
-Relacionado: [[Ejemplo de la Fruteria]] · [[Regresion Lineal Multiple]]

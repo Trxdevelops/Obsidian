@@ -57,4 +57,3 @@ sns.lmplot(x=X, y=y, data=data, ci=95)
 
 Muestra el ajuste con su intervalo de confianza.
 
-Relacionado: [[Ecuacion Normal]] · [[Minimos Cuadrados Ordinarios]] · [[Explicabilidad de los Coeficientes]]

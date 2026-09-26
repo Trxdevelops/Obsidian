@@ -49,5 +49,3 @@ Donde:
 - $m$: número de filas (observaciones)
 
 Todo el modelo se reduce a $\mathbf{X}\beta = \mathbf{y}$.
-
-Relacionado: [[Ecuacion Normal]] · [[Regresion Lineal Multiple]] · [[Ejemplo de la Fruteria]]

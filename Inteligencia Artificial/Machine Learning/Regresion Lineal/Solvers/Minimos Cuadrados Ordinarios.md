@@ -26,5 +26,3 @@ Donde:
 
 ## Sesión práctica
 **ML_OLS_numpy** (notebook en Kaggle). Objetivo: convertir las ecuaciones de los mínimos cuadrados ordinarios en código Python e inspeccionar visualmente el resultado.
-
-Relacionado: [[Ecuacion Normal]] · [[Regresion Lineal en Python]]

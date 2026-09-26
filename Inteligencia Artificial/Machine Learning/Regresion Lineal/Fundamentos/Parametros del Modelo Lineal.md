@@ -17,4 +17,3 @@ Sube o baja la recta entera sin cambiar su inclinación. Es el punto de corte co
 > [!example] Intuición
 > Ajustar un modelo de regresión lineal consiste, literalmente, en rotar y trasladar una recta hasta que pase lo mejor posible por los datos.
 
-Relacionado: [[Regresion Lineal Simple]] · [[Explicabilidad de los Coeficientes]] · [[Ejemplo de la Fruteria]]

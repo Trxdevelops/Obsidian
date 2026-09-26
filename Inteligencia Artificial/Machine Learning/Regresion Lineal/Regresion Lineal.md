@@ -23,7 +23,6 @@ tema: Tema 4
 
 ### Datos y álgebra
 - [[DataFrame y Matriz de Diseno]]
-- [[Ejemplo de la Fruteria]]
 - [[Regresion Lineal Multiple]]
 
 ### Solvers
